@@ -250,7 +250,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-9-2000x1333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -616,7 +616,7 @@
             "showBio": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-8-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-10-2000x1333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
