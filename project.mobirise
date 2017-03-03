@@ -1,0 +1,829 @@
+{
+  "settings": {
+    "name": "NewSite-02-26_1409",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      }
+    },
+    "versionFirst": "3.11.1",
+    "uniqCompNum": 18,
+    "versionPublish": "3.11.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-92983651-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Insta Famous",
+        "meta_descr": "boost your instagram account by 900% with real time engaged folowers attracted by your choosing, health and fitness, make money online, motivation, mlm, traveling you name it.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-193x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "coderwall",
+              "family": "socicon",
+              "link": "index.html",
+              "size": 0,
+              "active": true,
+              "color": "#fac51c",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">earn-now.online/instafamous</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"earn-now.online\">BACK TO MAIN SITE!</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#pricing-table1-b\">PURCHASE A PACK</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            ".mbr-section-lead": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1281.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Boost your instagram account by 900%",
+          "text": "Hey, one thing I like most in life is giving value for your money when I say that I mean over the moon value. I'll give you one more chance to take advantage of another platform I use to make thousands online monthly, which is none other than instagram, become Insta famous without spamming people and without doing anything! Below I’ll walk you through more!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://www.youtube.com/watch?v=qKRdkmDmgNw\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOLLOWERS ENGAGEMENT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#header2-g\" data-toolbar=\"-mbrBtnMove\">SIGN UP INSTA FAMOUS</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            ".mbr-section-text": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header2-g",
+          "_params": {
+            "imageSize": "44",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=4VoTMb1d01A",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "WHY WOULD I WANT TO BECOME INSTA FAMOUS?",
+          "text": "Instagram is widely used by millions of people each month and thousands from that millions are brand new users, we would call customers, Being Insta famous means having thousands of followers and having thousands of followers means getting fresh leads to your offer each day or whenever you post an interesting image of your product? Now who wouldn't want an instagram account with thousands of people interested in whatever it is you have to sell? As you know we sell products anything that's free is most likely not good or will just work for a few hours and that's it! To become Insta famous there is a price, click the button below I’ll walk you through more, nickanderson208 featured video on the left show's you the potential of having a insta famous account!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://onlinesalespro.com/IRF-s-1/?sub=robertron\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP FOR OSP</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#features3-4\" data-toolbar=\"-mbrBtnMove\">INSTA FAMOUS</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            },
+            "H5": {
+              "color": "#fac51c"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features3-4",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "First Feature",
+          "subtitle1": "Getting your first 1,000 followers",
+          "caption1": "Getting your first 1,000 followers is rather easy, easier than you think. These 1,000 followers will be targeted followers interested in your product person's that are willing to spend money buying what you sell. You have the option to push your followers from 0 to 5k - 10k - 20k - 100k - 1.1mil the amount of followers you gain depends entirely on how much followers you want, sounds funny? Well that’s how we do it.",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#social-buttons3-5\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Second Feature",
+          "subtitle2": "Allow only those who are interested",
+          "caption2": "You'll be equipped with the option of choosing only person's you want to have following you, persons who have posted about health care, exercise, mental issues, happiness, make money online etc. This will be done by me so I’ll know exactly who to drive effortless to your Insta account, you should be promoting osp so finding persons that's interested in making money online has been easy and will be easy to find for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#pricing-table1-b\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Third Feature",
+          "subtitle3": "Follow back all who followed or none",
+          "caption3": "Most famous Insta accounts have a ton of followers but small following some may find this as a way to show people that they are big shot's, however if you’re not a celebrity this is not a good sign because over the years through my studies account's with huge followers but low following, their followers tends to decrease by well over 35% each year therefore leaving us with the best option follow back those who follow you.",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#social-buttons3-5\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Fourth Feature",
+          "subtitle4": "Sit back and relax do nothing just get paid",
+          "caption4": "This is the best feature of Insta famous, the idea of Insta famous was developed by me but took some other hands to bring it to reality which is why today to run a Insta campaign it comes with a cost, you have the option to pay for a year’s worth of driving targeted followers to your Insta account or the option to pay daily, Insta famous campaign's is rather cheap to run so take advantage and just sit back and enjoy the ride.",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#pricing-table1-b\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-5",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": true,
+            "odnoklassniki": true
+          },
+          "text": "SHARE THIS PAGE!"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#ffffff"
+            },
+            ".mbr-plan-subtitle": {
+              "color": "#ffffff"
+            },
+            ".mbr-plan-price-desc": {
+              "color": "#fac51c"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-b",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1125.jpg",
+            "bgColor": "#303030",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "showButtons": true,
+            "secondType": "",
+            "thirdType": "",
+            "fourthType": "bg-primary"
+          },
+          "title": "PRICING TABLE",
+          "subtitle": "Pay dailey, Pay weekly, Pay monthly And Pay yearly it's all up to you!",
+          "label1": "HOT!",
+          "title1": "DAILY",
+          "subtitle1": "Pack",
+          "currency1": "$",
+          "price1": "8",
+          "period1": "",
+          "description1": "Some features included.",
+          "list1": "<p>Start's within 1 day of purchase.</p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Account is your's to keep.</span></p><p>Run for 1 day.</p>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#content2-d\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\">CONTACT ME</a>",
+          "label2": "HOT!",
+          "title2": "WEEKLY",
+          "subtitle2": "Pack",
+          "currency2": "$",
+          "price2": "15",
+          "period2": "",
+          "description2": "Some features included.",
+          "list2": "<p>Start's within 1 day of purchase<span style=\"font-size: 1rem; line-height: 1.5;\">.</span></p><p>Account is your's to keep.</p><p>Run for 1 week.</p>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#content2-d\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\">CONTACT ME</a>",
+          "label3": "HOT!",
+          "title3": "MONTHLY",
+          "subtitle3": "Pack",
+          "currency3": "$",
+          "price3": "35",
+          "period3": "",
+          "description3": "Some features included.",
+          "list3": "<p>Start's within 1 day of purchase<span style=\"font-size: 1rem; line-height: 1.5;\">.</span></p><p>Account is your's to keep.</p><p>Run for 1 month.</p>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#content2-d\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\">CONTACT ME</a>",
+          "label4": "HOT!",
+          "title4": "YEARLY",
+          "subtitle4": "Pack",
+          "currency4": "$",
+          "price4": "170",
+          "period4": "",
+          "description4": "All features included.",
+          "list4": "<p>Start's wihtin 1 day of purchase.</p><p>Auto follow request accept.</p><p>Account is your's to keep.</p><p>Run for 1 year.</p><p></p><ul class=\"list-group list-group-flush\"></ul><p></p>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-9\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\">CONTACT ME</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "content2-d",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Payments will be made via PayPal, reason being if a refund should be requested PayPal is the easiest and most simple way to refund cash sent via the internet. If you should ask for a refund this can only be in the event of not receiving any followers or engagement which is 100% guaranteed by me! The account created will be yours for your doing after you have felt the need of stopping your Insta famous campaign, all followers gained will be yours to keep no questions asked, whatever money made from your Insta account will be yours to keep i would never ask for an incentive from any of my members. Use the info i provide on this site via videos to have maximum success with instagram after i help you with the hard part!</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            ".mbr-section-text": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header2-h",
+          "_params": {
+            "imageSize": "47",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=he-P8QW6gLw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "I FELT SO WEIRD WRITING THAT! NOW BACK TO BEING ME :)",
+          "text": "I'm sure this will help your business strive just as much as all the other traffic sources that I have given you to use, this though takes more engagement by you the owner of the account, on the left side I have prepared a video for you to watch this will teach you how to get the most out of instagram what to do and what not to do, you might not know the power of having a Insta famous account now but will in the future. I have helped person's grow their business from $100 a month all the way up to $120,000 a year all through having a well structured Insta famous account and followers that are 100% interested in your offer, this is exactly what I’m gonna do for you. Just imaging an account with 100 thousand followers and you decided to post an image of your monthly earnings? What returns do you think you would accumulate from that? Get your Insta famous account today!.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html#testimonials4-6\" data-toolbar=\"-mbrBtnMove\">TESTIMONIALS</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#form1-9\" data-toolbar=\"-mbrBtnMove\">SIGN UP NOW</a>"
+        },
+        {
+          "_inherit": "testimonials2",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials4",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "36px"
+            },
+            ".card-footer > div": {
+              "color": "#ffffff"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p><b>Absolutely awesome service!</b></p><p><span style=\"font-size: 1.125rem; line-height: 2;\">\"Becoming Insta famous has really helped me to connect with my audience on Instagram. Before I was spending hours a day liking, following, and commenting on photos. Now, i do nothing while my account explodes\"</span><br></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Anna S.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<b>Two thumbs up!</b><div><span style=\"font-size: 1.125rem; line-height: 2;\">\"I get REAL followers that I can actually interact with. My newsfeed is flooded with \"thank you's\" from people whose photos I've liked. What is even cooler is that you've liked photos for me that I would've actually liked myself\"</span><br></div>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Ellanda B.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p><b>You guys are legends!</b></p><p><span style=\"font-size: 1.125rem; line-height: 2;\">\"I've been with you since your start out on facebook. Today I got a call from a HUGE wellness company asking how I'm so successful on Instagram. They are now going to fly me out to LA to show them how i did all that! Thank you so much for creating this service\"</span><br></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Anthony K.",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials4-6",
+          "_params": {
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-8-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false
+          },
+          "title": "WHAT OUR INSTA FAMOUS USERS SAY?",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "form1-9",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "Shape your future by becoming instagram famous today hassle free just sit back and relax.",
+          "form": {
+            "action": "earnwithron@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out the form! I'll contact you via email regarding setting up your account! "
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET INSA FAMOUS NOW</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "LI": {
+              "color": "#bcbcbc"
+            }
+          },
+          "_anchor": "contacts3-a",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "file:///C:/Users/ROBERT/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-265x198_1.jpg",
+              "class": "card-img-top",
+              "width": 265,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "linkInNewWindow": false,
+              "name": "coderwall",
+              "family": "socicon",
+              "link": "",
+              "size": 0,
+              "active": true,
+              "color": "#fac51c"
+            }
+          },
+          "text1": "Creating a better life for yourself means you gotta get up off your cheeks and start working towards it.",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+1 (876) 361 2946 or +1 (876) 408 2306",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "206 East 95 St, York Ville AA NY",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "coderwall",
+              "family": "socicon",
+              "active": true,
+              "size": 0,
+              "color": "#fac51c"
+            }
+          },
+          "text4": "",
+          "title1": "Categories",
+          "text5": "<li><a href=\"promoteanybiz.html\">Promote Any Biz</a><a class=\"text-white\" href=\"promoteanybiz.html\"></a></li><li><a href=\"livingyourdream.html\">Living Your Dream</a></li><li><a href=\"https://onlinesalespro.com/IRF-s-1/?sub=robertron\" target=\"_blank\">Sign Up For OSP</a></li><li><a href=\"index.html\">Instagram Famous</a></li>",
+          "text6": "<strong>Contacts</strong><br>Phone: +1 (876) 361 2946<br>Fax: +1 (0) 000 i got none<br><br><br><strong>Address</strong><br>206 East 95 St<br>York Ville, AA NY",
+          "form": {
+            "title": "MESSAGE",
+            "action": "earnwithron@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form! I'll contact you bak as soon as possible!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "B": {
+              "color": "#ff0808"
+            }
+          },
+          "_anchor": "footer1-8",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Earn.com. <b><a href=\"index.html\">Disclaimer</a> - <a href=\"index.html\">Privacy Policy</a> - <a href=\"index.html\">Terms Of Service</a></b>"
+        }
+      ]
+    }
+  }
+}
