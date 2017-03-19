@@ -516,6 +516,9 @@ h6,
   color: #ffffff;
 }
 #pricing-table1-b .mbr-plan-price-desc {
+  color: #ffffff;
+}
+#pricing-table1-b .mbr-plan-label {
   color: #fac51c;
 }
 #content2-d BLOCKQUOTE {
@@ -541,6 +544,9 @@ h6,
 }
 #form1-9 .mbr-section-title {
   font-size: 36px;
+}
+#form1-9 SMALL {
+  color: #fac51c;
 }
 #contacts3-a LI {
   color: #bcbcbc;
